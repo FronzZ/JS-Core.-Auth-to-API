@@ -7,10 +7,10 @@
 Документация по апи: https://api.realworld.io/api-docs/
 Если ссылка не работает, рекомендуем использовать альтернативу: https://bump.sh/doc/realworld/operation/operation-createuser 
 
-    Качаем Postman, дальше все запросы отправляем с его помощью
-    Смотрим документацию
-    Регистрируемся (Registration)
-    Логинимся (Authentication)
-    Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User)
+   Качаем Postman, дальше все запросы отправляем с его помощью
+   Смотрим документацию
+   Регистрируемся (Registration)
+   Логинимся (Authentication)
+   Используя заголовок авторизации получить данные текущего пользователя (Endpoints -> Get Current User)
 
 ![JS Core. Auth to API](https://github.com/FronzZ/JS-Core.-Auth-to-API/blob/main/JS%20Core.%20Auth%20to%20API.png) 
